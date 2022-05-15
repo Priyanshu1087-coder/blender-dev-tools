@@ -11,19 +11,7 @@ Some of the tools included may be used stand-alone, others expect Blenders sourc
 Usage
 =====
 
-While this is a stand-alone repository,
-some of the scripts which access Blenders source code assume this repository will be located at
-``source/tools`` within Blenders source code repository. At some point this may be included as a submodule.
-
-Some tools also rely on the ``blender`` binary, this is assumed to be located at: ``../../blender.bin``.
-*The root directory of Blender's git repository*
-
-
-Categories
-==========
-
-Check Source
-------------
+W
 
 Any tools for scanning source files to report issues with code, style, conventions, deprecated features etc.
 
